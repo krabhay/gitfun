@@ -1,1 +1,12 @@
 This is sample file.
+
+This is line no one
+
+I am going to explain here abt git process
+
+This is very helpful for all deployement
+
+Taking this and Moving forward
+
+
+Could help you 
