@@ -1,1 +1,2 @@
 This is sample file.
+Commit #2 : added some text
